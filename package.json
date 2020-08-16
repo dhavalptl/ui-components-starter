@@ -17,6 +17,10 @@
     "react",
     "ui-components"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhavalptl/ui-components-starter.git"
+  },
   "scripts": {
     "clear": "rm -rf ./lib",
     "start": "tsc --watch",
