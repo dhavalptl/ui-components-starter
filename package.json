@@ -1,7 +1,7 @@
 {
   "name": "ui-components-starter",
   "author": "Dhaval",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React UI Components Starter",
   "license": "MIT",
   "main": "lib/cjs/index.js",
