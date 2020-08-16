@@ -1,7 +1,7 @@
 {
-  "name": "ui-components-starter",
+  "name": "@dhavalptl/ui-components-starter",
   "author": "Dhaval",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "React UI Components Starter",
   "license": "MIT",
   "main": "lib/cjs/index.js",
@@ -20,6 +20,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dhavalptl/ui-components-starter.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "clear": "rm -rf ./lib",
